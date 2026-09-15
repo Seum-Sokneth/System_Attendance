@@ -31,7 +31,6 @@ export default function Profile() {
         setLoading(false);
       }
     };
-
     loadProfile();
   }, []);
 
